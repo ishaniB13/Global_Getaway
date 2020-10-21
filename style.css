@@ -91,7 +91,7 @@ h1 {
     color: #eaf1ee;
     background: rgb(233, 85, 27);
     border-radius: 100%;
-    padding: 35px;
+    padding: 25px;
     box-shadow: 0 0 10px 1px rgba(221, 133, 2, 0.18);
     position: absolute;
     left: 6px;
@@ -245,9 +245,11 @@ h1 {
 }
 
 .footer-logo {
-    width: 200px;
+    width: 150px;
+    height: 150px;
     margin-top: 15px;
     margin-bottom: 15px;
+    padding-left: 10px;
 }
 
 .footer h4 {
@@ -274,6 +276,3 @@ h1 {
 }
 
 ;
-.footer .copyright {
-    text-align: center;
-}
